@@ -1,4 +1,4 @@
-# Programmering-av-inbyggda-system---DA267A
+# Programmering-av-inbyggda-system-DA267A
 Programming of Embedded Systems
 Kursen innehåller följande moment:
 Element i språket C för inbyggda system
